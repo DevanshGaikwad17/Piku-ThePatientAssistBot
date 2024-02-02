@@ -5,7 +5,7 @@ https://hasgeek.com/fifthelephant/open-source-ai-hackathon/sub/piku-patient-assi
 
 Project :-
 -------------------------------------------------------------------------------------------------------------------------
-Its AI-powered and advanced designed Next-Gen health Assistant , enabling it to do multiple intelligence tasks easily to support and assist the patient in difficult times. the project seamlessly integrates advanced technologies such as Python,AI Program, Speech Recognition integrated with hardware components such as Arduino microcontroller,Raspberry Pi, Quarky microcontroller ,Touch Display , Pump & Servo motors,  Sensors
+It's an AI-powered and advanced designed Next-Gen health Assistant , enabling it to do multiple intelligence tasks easily to support and assist the patient in difficult times. the project seamlessly integrates advanced technologies such as Python,AI Program, Speech Recognition integrated with hardware components such as Arduino microcontroller,Raspberry Pi, Quarky microcontroller ,Touch Display , Pump & Servo motors,  Sensors
 
 Features:-
 ------------------------------------------------------------------------------------------------------------------------
