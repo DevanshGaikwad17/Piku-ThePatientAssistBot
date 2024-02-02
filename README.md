@@ -25,6 +25,7 @@ Connect with Hospital / Family Members
 
 
 Engage & Entertain – to keep them active and happy : 
+
 •	Engage with patient through voice and keeping them active – speech recognition.
 •	Play Live news, Show weather updates, Play Music or videos
 •	Keep engaged with games and quiz
